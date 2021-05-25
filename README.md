@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and Django for Fullstack web development
 - 💞️ I’m looking to collaborate on exciting and innovative open source projects
 - 😓 I'm trying to be more consistent with my commits and work on more projects
-- 📫 To reach me just send feedback
+- 📫 To reach me just shoot me an email
 
 <!---
 DeXtreme/DeXtreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
