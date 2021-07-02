@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React and Django for Fullstack web development
 - 💞️ I’m looking to collaborate on exciting and innovative open source projects
 - 😓 I'm trying to be more consistent with my commits and work on more projects
+- 🥰 I have a [CodePen](https://codepen.io/dextreme) for some of my other projects.
 - 📫 To reach me just shoot me an email
 
 <!---
