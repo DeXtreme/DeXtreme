@@ -5,6 +5,7 @@
 - 😓 I'm trying to be more consistent with my commits and work on more projects
 - 🥰 I have a [CodePen](https://codepen.io/dextreme) for some of my other projects.
 - 📫 To reach me just shoot me an email
+- *A commit a day keeps the laziness away* 😃
 
 <!---
 DeXtreme/DeXtreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
