@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Derrick-Brown (@DeXtreme)
+- 👋 Hi, I’m Emmanuel (@DeXtreme)
 - 🌱 I am a Python Backend and Cloud Engineer 
 - 👀 I’m interested in Cloud computing and Software Engineering
 - 🥰 Currently working as a remote Backend engineer
