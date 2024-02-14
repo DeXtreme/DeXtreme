@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Derrick-Brown (@DeXtreme)
-- 🌱 I am a Python developer and aspiring Cloud/DevOps Engineer 
-- 👀 I’m interested in Cloud computing, Software Development & AI & Machine Learning
-- 🥰 Currently working as a remote software developer
-- 📖 Learning Cloud and DevOps engineering
+- 🌱 I am a Python Backend and Cloud Engineer 
+- 👀 I’m interested in Cloud computing and Software Engineering
+- 🥰 Currently working as a remote Backend engineer
+- 📖 AWS Solutions Architect. I love to learn about new technologies
 - 💞️ I’m looking to collaborate on and contributing to exciting and innovative open source projects
 - 😓 I'm trying to be more consistent with my commits and work on more projects
 
